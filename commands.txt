@@ -1,7 +1,12 @@
-These are useful git commands: 
-cd RepositoryName
-git pull
-git echo this is what I want to copy to a document >> document.txt
-git add --all :/
-git commit -m
-git push
+These are useful git commands:
+
+cd RepositoryName # first make sure you are in the directory you want to work in
+git pull # update the repository it to make sure there are no new version on GitHub
+git echo "this is what I want to copy to a document" >> document.txt # this creates document.txt and adds text
+git add --all :/ # this is how you add everything to staged documents
+git commit -m "I did this" # here you commit it the documents with a useful comment on what you changed
+git push # now you push it to the cloud
+
+git checkout HEAD~1 # check the previous state
+
+# in case of a merge conflict (when one person forgot to pull and is actually working in an older version of the document)

@@ -4,8 +4,11 @@
 
 Content of the file:
 - instructions on how to create a repository
+<<<<<<< HEAD
 - useful commands
+- a nice picture of fish in Croatia
+![fish_picture](Fish\ in\ Croatia.jpg)
+=======
 - useful git commands
 - a nice picture of fish in Croatia (be sure to have a look at it :-) )
-
-![fish_picture](Fish\ in\ Croatia.jpg)
+>>>>>>> 1ec0ce3c7a9faca8df5b077e6718d766e7c76b23
