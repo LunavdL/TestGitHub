@@ -4,5 +4,5 @@
 
 Content of the file:
 - instructions on how to create a repository
-- useful commands
-- a nice picture of fish in Croatia
+- useful git commands
+- a nice picture of fish in Croatia (be sure to have a look at it :-) )
