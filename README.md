@@ -7,4 +7,4 @@ Content of the file:
 - useful git commands
 - a nice picture of fish in Croatia (be sure to have a look at it :-) )
 
-![fish_picture]('Fish_in_Croatia.JPG')
+![fish_picture](Fish_in_Croatia.JPG)
