@@ -1,0 +1,7 @@
+These are useful git commands: 
+cd RepositoryName
+git pull
+git echo this is what I want to copy to a document >> document.txt
+git add --all
+git commit -m
+git push
